@@ -1,8 +1,8 @@
 # Linked List Insertions
-This challenges utilizes modifying a single linked list.
+This challenge modifies two linked lists, merging them into one
 
 ## Challenge
-Add a find method that takes in a value of k, which will find the value of the node that is at index of (list_length - k). We solved this by using the tortoise and the hare method.
+Create a function that takes two linked lists, as arguments. The lists should be merged into one list, with the head of the first list being the head of the new, merged list. The merging method should alternate, putting the first lists head list item in, then the second lists head item in, then so on.
 
 ## Solution
-![White Boarding](./../assets/04_ll_kth_from_end.jpg)
+![White Boarding](./../assets/05_ll_merge.jpg)
